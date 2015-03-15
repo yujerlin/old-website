@@ -1,0 +1,11 @@
+td {
+	font-size: 18px;
+}
+
+#wins {
+	color: green;
+}
+
+#losses {
+	color: red;
+}
